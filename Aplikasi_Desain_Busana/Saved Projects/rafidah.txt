@@ -1,0 +1,4 @@
+patasanlk1		
+plenganlk1		
+pcelanalk3		
+tex2	processing.core.PImage@3ae3ddcc	Textures/b/imgtex (7).jpg
